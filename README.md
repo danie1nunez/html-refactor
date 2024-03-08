@@ -1,6 +1,7 @@
 # html-refactor
 
-~SUMMARY~
+## SUMMARY
+
 In this website I was able to refactor all of the semantic elements that were not correctly describing the
 code they were containing. I was also able to make sure they were in a logical order and structure. In, addition
 I viewed the Icon and image elements and added alt tags as needed. Also, I changed to title to better reflect the 
